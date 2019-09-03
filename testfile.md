@@ -11,11 +11,11 @@ https://twitter.com/gridsome/status/1088777983987335170
 
 ### Test 1
 
-`youtube:https://www.youtube.com/watch?v=dQw4w9WgXcQ`
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ### Test 2
 
-`youtube:https://www.youtube.com/embed/dQw4w9WgXcQ`
+https://www.youtube.com/embed/dQw4w9WgXcQ
 
 ### Test 3
 
