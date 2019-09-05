@@ -1,3 +1,7 @@
+----
+title: test
+----
+
 testcontent
 
 test 2
