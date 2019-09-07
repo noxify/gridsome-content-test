@@ -2,7 +2,7 @@
 title: Gist
 ---
 
-# Table of Contents
+## Table of Contents
 
 # Test 1 - Show all
 
