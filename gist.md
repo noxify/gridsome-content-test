@@ -19,4 +19,4 @@ https://gist.github.com/noxify/4663ce9b7bee433c125a2fc12150a043?file=file2.js
 
 # Test 4 Only file1.js with Line Highlighting for Line 1,3,5-10, 15-20
 
-https://gist.github.com/noxify/4663ce9b7bee433c125a2fc12150a043?file=file1.js&highlights=1,3,5-10,12-20
+https://gist.github.com/noxify/4663ce9b7bee433c125a2fc12150a043?file=file1.js&highlights=1,3,5-10,15-20
