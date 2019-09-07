@@ -1,19 +1,6 @@
 ---
-title: test
+title: Youtube
 ---
-
-testcontent
-
-test 2
-
-
-## Twitter
-
-### Twitter 1
-
-https://twitter.com/therealdanvega/status/1167162781818347521
-
-## Youtube 
 
 ### Test 1
 
