@@ -4,18 +4,47 @@ title: Youtube
 
 # Table of Contents
 
-# Test 1
+# Test 1 - Youtube Link with `watch?v=<id>`
+
+```
+//Source
+https://youtu.be/kSL8KmjB68w
+```
 
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-# Test 2
+# Test 2 - Youtube Link with `watch/<id>`
 
-https://www.youtube.com/embed/dQw4w9WgXcQ
+```
+//Source
+https://www.youtube.com/watch/d-diB65scQU
+```
 
-# Test 3
+https://www.youtube.com/watch/d-diB65scQU
 
-https://youtu.be/dQw4w9WgXcQ
+# Test 3 - Youtube Embed Link
 
-# Test 4
+```
+//Source
+https://www.youtube.com/embed/jMe6Y8GDVEI
+```
 
-https://www.youtube.com/embed/videoseries?list=PLpeT3TZU-3DQzVS5agXAeP5QInz6O2xUQ?v=Q2JF22ty5lQ
+https://www.youtube.com/embed/jMe6Y8GDVEI
+
+# Test 4 - youtu.be link
+
+```
+//Source
+https://youtu.be/kSL8KmjB68w
+```
+
+https://youtu.be/kSL8KmjB68w
+
+# Test 5 - Playlist
+
+```
+//Source
+https://www.youtube.com/playlist?list=PLsYdD2dXw1yi9OkbUpGN55QTEAI833mtX
+```
+
+https://www.youtube.com/playlist?list=PLsYdD2dXw1yi9OkbUpGN55QTEAI833mtX
