@@ -1,5 +1,6 @@
 ---
 title: Giphy
+tags: tag1, tag2, tag4
 ---
 
 ## Table of Contents
