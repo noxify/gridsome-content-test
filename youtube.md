@@ -48,3 +48,20 @@ https://www.youtube.com/playlist?list=PLsYdD2dXw1yi9OkbUpGN55QTEAI833mtX
 ```
 
 https://www.youtube.com/playlist?list=PLsYdD2dXw1yi9OkbUpGN55QTEAI833mtX
+
+# Test 6 - Playlist via embed link
+
+```
+//Source
+https://www.youtube.com/embed/videoseries?list=PLsYdD2dXw1yi9OkbUpGN55QTEAI833mtX
+```
+
+https://www.youtube.com/embed/videoseries?list=PLsYdD2dXw1yi9OkbUpGN55QTEAI833mtX
+
+# Test 7 - Video with Playlist reference
+```
+//Source
+https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ
+```
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ
